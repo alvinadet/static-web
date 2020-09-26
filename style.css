@@ -1,0 +1,76 @@
+body {
+    font:16px/24px arial,sans-serif;
+    background-color:#eaeaea;
+    color:#333;
+    background-image:url(https://1.bp.blogspot.com/-rrug2T8KLpM/XW8-9wRT-CI/AAAAAAAABig/gtm_Xa_4hzAmnCoWaACgSacgSzW0p7IewCLcBGAs/s640/kaos%2Bsepatu%2Broda.jpg);
+    background-repeat:repeat-y;
+}
+.container{
+    margin-top:-10px;
+    background-color:#fff;
+    width:300px;
+    margin:auto;
+}
+.header{
+    padding:15px;
+    
+}
+.header .title{
+    
+    font-weight:bold;
+    font-size:28px;
+    text-align:center ;
+    margin:auto;
+}
+.header ul li{
+    list-style:none;
+    display:inline-block ;
+    margin:auto;
+    margin-left:-1.1px;
+}
+.header a{
+    text-decoration:none;
+    color:salmon;
+    padding:2px;
+}
+.header a:hover{
+    background-color:lightskyblue;
+    color:#fff;
+}
+.pict{
+      height:300px;
+      background-image:url(https://1.bp.blogspot.com/-s2JBRR-frHM/WRQp3A_FiTI/AAAAAAAAAE0/Cw712vnzi_QwUPV5R6neAW2X99NrfLwyQCLcB/s320/logo%2Bsmk%2Bbaru.png);
+      background-position:-11px 10px;
+      border-top:10px solid salmon;
+      border-bottom:5px solid gold;
+}
+.content{
+    padding:5px;
+}
+.content h3{
+    font-family:times new roman;
+    font-weight:none ;
+    font-size:18px;
+}
+.content .penulis{
+    margin-top:-10px;
+    font-size:10px;
+    font-family:times new roman;
+}
+.content .penulis a{
+    color:salmon;
+    text-decoration:none ;
+}
+.content p{
+    font-size:16px;
+    font-family:times new roman;
+}
+.footer{
+    background-color:salmon;
+    padding:0,9px;
+    
+}
+.footer .puter{
+    text-align:center ;
+    color:#fff;
+}
